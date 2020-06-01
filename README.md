@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+The UI contain two pages:-
+1) AddToDo 
+2)TODOs
