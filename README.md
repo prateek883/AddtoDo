@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 The UI contain two pages:-
-1) AddToDo 
-2)TODOs
+1)Adding the To-Dos.
+2) Displaying the To-Dos.
